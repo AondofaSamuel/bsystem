@@ -10,6 +10,9 @@ The platform is not a simple backup script. It is an orchestration system that m
 
 | Document | Purpose |
 |---|---|
+| `EBROP_Authoritative_Software_Architecture_Specification_v1_2.docx` | Primary authoritative Word SAS. Developers implement against this document. Version 1.2 incorporates the SAS review criticisms plus provider implementation guardrails for MySQL streaming memory safety, SignalR progress throttling, and VSS/robocopy manifest path alignment. |
+| `EBROP_Authoritative_Software_Architecture_Specification_v1_1.docx` | Earlier Word SAS retained for comparison. Superseded by v1.2. |
+| `EBROP_Authoritative_Software_Architecture_Specification.docx` | Earlier Word SAS retained for comparison. Superseded by v1.2. |
 | `01-architecture-decisions.md` | Final decisions agreed during architecture review. |
 | `02-system-architecture.md` | Platform topology, components, trust boundaries and data flows. |
 | `03-agent-architecture.md` | Windows Agent design, lifecycle, state machine, identity and update model. |
@@ -20,6 +23,7 @@ The platform is not a simple backup script. It is an orchestration system that m
 | `08-database-design.md` | Core schema, tables, indexes and data ownership model. |
 | `09-api-contracts.md` | REST endpoints, SignalR events, job payloads and error contracts. |
 | `10-operations-dr.md` | Installation, monitoring, agent replacement, catalog recovery and runbooks. |
+| `11-software-architecture-specification.md` | Markdown implementation baseline supporting the authoritative Word SAS. |
 
 ## Version 1 Definition of Done
 

@@ -8,6 +8,7 @@ EBROP is designed around trusted Windows agents, secure orchestration, local rep
 
 Start here:
 
+- [Authoritative Word SAS v1.2](docs/EBROP_Authoritative_Software_Architecture_Specification_v1_2.docx)
 - [Documentation Index](docs/00-index.md)
 - [Architecture Decisions](docs/01-architecture-decisions.md)
 - [System Architecture](docs/02-system-architecture.md)
@@ -19,6 +20,7 @@ Start here:
 - [Database Design](docs/08-database-design.md)
 - [API Contracts](docs/09-api-contracts.md)
 - [Operations and Disaster Recovery](docs/10-operations-dr.md)
+- [Markdown Architecture Baseline](docs/11-software-architecture-specification.md)
 
 ## Version 1 Scope
 
